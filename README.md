@@ -5,6 +5,8 @@ B1001　　[(3n+1)猜想](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B
 
 B1004　　[成绩排名](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B1004.md)
 
+B1009　　[说反话](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B1009.md)
+
 B1011　　 [A+B和C](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B1011.md)
 
 B1012　　[数字分类](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B1012.md)
