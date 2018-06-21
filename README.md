@@ -1,6 +1,8 @@
 # PAT-A-B-
 **C/C++ Programming Ability Test**
 
+A1025　　[Ranking](https://github.com/wang-jinghui/PAT-A-B-/blob/master/A1025.md)
+
 B1001　　[(3n+1)猜想](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B1001.md)
 
 B1004　　[成绩排名](https://github.com/wang-jinghui/PAT-A-B-/blob/master/B1004.md)
